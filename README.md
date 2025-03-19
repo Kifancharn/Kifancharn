@@ -1,4 +1,3 @@
-
 ###
 
 <div align="center">
@@ -23,13 +22,11 @@
 
 ###
 
-<p align="left">I'm  Kiran from  Bangalore <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning  MERN stack<br>- ⚡ In my free time I Collabarate on All full stack java</p>
+<p align="left">I'm Kiran from Bangalore <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I collaborate on all full-stack Java projects.</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
@@ -60,5 +57,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
