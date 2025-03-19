@@ -23,13 +23,13 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm  Kiran from  Bangalore <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning  MERN stack<br>- ⚡ In my free time I Collabarate on All full stack java</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
